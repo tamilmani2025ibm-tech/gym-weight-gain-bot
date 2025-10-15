@@ -1,0 +1,5 @@
+fastapi==0.115.0
+uvicorn==0.30.0
+jinja2==3.1.4
+openai==1.45.0      # for AI chatbot responses
+python-dotenv==1.0.1 # to manage API keys securely
